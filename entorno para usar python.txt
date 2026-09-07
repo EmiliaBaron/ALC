@@ -1,0 +1,5 @@
+entorno para usar python ALC 
+
+NO USAR (solo para activar uno nuevo)-> python3 -m venv venv
+
+source venv/bin/activate
